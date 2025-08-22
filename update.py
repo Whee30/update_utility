@@ -13,7 +13,7 @@ required_items = {
     "sources":"./sources",
     "previousWarrants":"./sources/previousWarrants",
     "TandE":"./sources/TandE.txt",
-    "program":"./warrantBuilder.py",
+    "program":"./warrantBuilder.exe",
     "verbiage":"./sources/cv_sources.json",
     "template":"./sources/skeleton.docx",
     "settings":"./sources/settings.json",
@@ -37,7 +37,7 @@ remote_files = {
 }
 
 local_files = {
-    "program":"./warrantBuilder.py",
+    "program":"./warrantBuilder.exe",
     "verbiage":"./sources/cv_sources.json",
     "template":"./sources/skeleton.docx",
     "settings":"./sources/settings.json"
